@@ -1,0 +1,134 @@
+*{
+
+
+	margin: 0;
+	padding: 0;
+}
+.parallex1{
+	width: 100%;
+	height: 600px;
+	background-image: url(bg1.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	/*backgroun-attachment: fixed use for scrolling effect
+	smoothly its a good practice for parallex design;*/
+}
+.parallex1 h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    height: 35px;
+    width: 327px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    padding-top: 5px;
+}
+
+.paragraph1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 78px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.parallex2{
+	width: 100%;
+	height: 600px;
+	background-image: url(bg2.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	/*backgroun-attachment: fixed use for scrolling effect
+	smoothly its a good practice for parallex design;*/
+}
+.parallex2 h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    height: 35px;
+    width: 327px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    padding-top: 5px;
+}
+
+.paragraph1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 78px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.parallex3{
+	width: 100%;
+	height: 600px;
+	background-image: url(bg3.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	/*backgroun-attachment: fixed use for scrolling effect
+	smoothly its a good practice for parallex design;*/
+}
+.parallex3 h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    height: 35px;
+    width: 327px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    padding-top: 5px;
+}
+
+.paragraph1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 78px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.parallex4{
+	width: 100%;
+	height: 600px;
+	background-image: url(bg1.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	/*backgroun-attachment: fixed use for scrolling effect
+	smoothly its a good practice for parallex design;*/
+}
+.parallex4 h2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+    height: 35px;
+    width: 327px;
+    position: relative;
+    left: 500px;
+    top: 300px;
+    padding-top: 5px;
+}
+
+.paragraph1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 78px;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
